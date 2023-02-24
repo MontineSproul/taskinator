@@ -1,0 +1,14 @@
+header {
+    background-color: teal;
+    border-bottom: 25px;
+    border-color: solid turquoise;
+    padding-bottom: 20px;
+    
+}
+
+section,
+li {
+    margin-top: 50px;
+    padding-top: 25px;
+    border: solid;
+    }
