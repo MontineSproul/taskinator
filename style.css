@@ -12,3 +12,15 @@ li {
     padding-top: 25px;
     border: solid;
     }
+form {
+    padding: 25px;
+    display: inline-flex;
+}
+.select-dropdown, .select-status {
+    appearance: none;
+    
+}
+
+.form-group {
+    margin: 10px;
+}
