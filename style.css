@@ -11,7 +11,11 @@ li {
     margin-top: 50px;
     padding-top: 25px;
     border: solid;
+    list-style-type: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
     }
+
 form {
     padding: 25px;
     display: inline-flex;
